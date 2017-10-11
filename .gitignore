@@ -1,0 +1,8 @@
+# Ignore virtual environemtn
+venv/
+
+# Ignore saved datafiles
+*.json
+
+# Ignore compiled python files
+*.pyc
