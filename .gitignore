@@ -7,3 +7,6 @@ venv/
 # Ignore compiled python files and pynb checkpoints
 *.pyc
 .ipynb_checkpoints
+
+# Ignore API auth tokens
+tokens.yml
