@@ -1,9 +1,6 @@
 # Ignore virtual environemtn
 venv/
 
-# Ignore saved datafiles
-*.json
-
 # Ignore compiled python files and pynb checkpoints
 *.pyc
 .ipynb_checkpoints
