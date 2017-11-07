@@ -1,4 +1,4 @@
-<header1>Open Refine Resources</header1>
+<strong>Open Refine Resources</strong>
 
 Data Sets:
 1. http://chroniclingamerica.loc.gov/search/titles/results/?terms=michigan&format=json
