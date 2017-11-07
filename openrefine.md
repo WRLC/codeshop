@@ -10,8 +10,6 @@
 2. To replace all instances of value #1 with value #2 to something else - value.replace("value1","value2") as in value.replace("Michigan","The Best State Ever")
 3. More GREL Tips in the "GRELtips.txt" file
 
-<strong>Templating</strong>
+<strong>Templating</strong><br>
 Aaron's DC to MODS OpenRefine Template
 https://gist.github.com/krebeck/1c3c0257cecb25eb1a7c
-
-
