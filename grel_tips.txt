@@ -1,5 +1,3 @@
-https://github.com/OpenRefine/OpenRefine.wiki.git
-
 Useful recipes for achieving certain tasks in OpenRefine
 
 This page collects OpenRefine recipes, small workflows and code fragments that show you how to achieve specific things with OpenRefine.
@@ -273,5 +271,3 @@ In expression type:
 8. Remove the index column
     index > Edit column > Remove this column
 9. Make sure you are back in Row mode by clicking 'Show as: rows' link
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
