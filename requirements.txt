@@ -1,3 +1,4 @@
+afinn==0.1
 jupyter==1.0.0
 PyYAML==3.12
 requests==2.18.4
