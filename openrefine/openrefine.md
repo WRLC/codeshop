@@ -2,9 +2,8 @@
 
 <strong>Data Sets:</strong>
 1. http://chroniclingamerica.loc.gov/search/titles/results/?terms=michigan&format=json
-2. a.  report data taken from https://tomcat.wrlc.org/rpt/retmissing_form.html (Voyager)
-2. b.  report data taken from Alma Analytics Tool https://analytics-na02.alma.exlibrisgroup.com/analytics/saw.dll?Go
-https://wrlc-network.alma.exlibrisgroup.com/infra/report?path=Go@Options=fdr@path=/shared/Alma/Physical%20Item%20Usage%20for%20Weeding/Reports/&reportName=3.%20Items%20in%20library%20at%20least%20five%20years%20and%20never%20loaned%20in%20last%20five%20years%20with%20prompt%20for%20library%20name&Action=Prompt
+2a.  report data taken from https://tomcat.wrlc.org/rpt/retmissing_form.html (Voyager)
+2b.  report data taken from Alma Analytics Tool https://analytics-na02.alma.exlibrisgroup.com/analytics/saw.dll?Go
 3. https://auislandora.wrlc.org/oai2?verb=ListRecords&set=auislandora_8322&metadataPrefix=oai_dc
 
 
