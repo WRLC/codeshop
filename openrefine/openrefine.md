@@ -4,7 +4,7 @@
 1. http://chroniclingamerica.loc.gov/search/titles/results/?terms=michigan&format=json
 2. a.  report data taken from https://tomcat.wrlc.org/rpt/retmissing_form.html (Voyager)
 2. b.  report data taken from Alma Analytics Tool https://analytics-na02.alma.exlibrisgroup.com/analytics/saw.dll?Go
-3. https://auislandora.wrlc.org/oai2?verb=ListRecords&set=auhist_876&metadataPrefix=oai_dc
+3. https://auislandora.wrlc.org/oai2?verb=ListRecords&set=auislandora_8322&metadataPrefix=oai_dc
 
 
 <strong>GREL Code Snippets</strong>
