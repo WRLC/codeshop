@@ -2,9 +2,9 @@
 
 <strong>Data Sets:</strong>
 1. http://chroniclingamerica.loc.gov/search/titles/results/?terms=michigan&format=json
-2a.  report data taken from https://tomcat.wrlc.org/rpt/retmissing_form.html (Voyager)
-2b.  report data taken from Alma Analytics Tool https://analytics-na02.alma.exlibrisgroup.com/analytics/saw.dll?Go
-3. https://auislandora.wrlc.org/oai2?verb=ListRecords&set=auislandora_8322&metadataPrefix=oai_dc
+2. report data taken from https://tomcat.wrlc.org/rpt/retmissing_form.html (Voyager)
+3. report data taken from Alma Analytics Tool https://analytics-na02.alma.exlibrisgroup.com/analytics/saw.dll?Go
+4. https://auislandora.wrlc.org/oai2?verb=ListRecords&set=auislandora_8322&metadataPrefix=oai_dc
 
 
 <strong>GREL Code Snippets</strong>
