@@ -1,0 +1,43 @@
+<!-- For Prefix -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+
+<!-- For Row Template -->
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>{{jsonize(cells["name_of_title_column"].value).replace('"', '')}}</title>
+      </titleInfo>
+      <name>
+         <namePart>{{jsonize(cells["name_of_creator_column"].value).replace('"', '')}}</namePart>
+         <role>
+            <roleTerm type="text">Creator</roleTerm>
+         </role>
+      </name>
+      <genre>{{jsonize(cells["name_of_genre/type_column"].value).replace('"', '')}}</genre>
+      <subject>
+         <topic>{{jsonize(cells["name_of_subject_column"].value).replace('"', '')}}</topic>
+      </subject>
+      <note>{{jsonize(cells["name_of_note/description_column"].value).replace('"', '')}}</note>
+      <originInfo>
+         <publisher>{{jsonize(cells["name_of_publisher_column"].value).replace('"', '')}}</publisher>
+      </originInfo>
+      <originInfo>
+         <dateCreated>{{jsonize(cells["name_of_date_column"].value).replace('"', '')}}</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <extent>{{jsonize(cells["name_of_coverage_column"].value).replace('"', '')}}</extent>
+      </physicalDescription>
+      <identifier type="handle">{{jsonize(cells["name_of_identifier_column"].value).replace('"', '')}}</identifier>
+      <language>
+         <languageTerm type="text">{{jsonize(cells["name_of_language_column"].value).replace('"', '')}}</languageTerm>
+      </language>
+      <accessCondition>{{jsonize(cells["name_of_rights_column"].value).replace('"', '')}}</accessCondition>
+   </mods>
+
+<!-- Don't put anything in Row Separator -->
+
+<!-- For Suffix -->
+
+</modsCollection>
